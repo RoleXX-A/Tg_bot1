@@ -20,7 +20,7 @@ client = OpenAI(
 )
 bot = telebot.TeleBot(key_TG)
 
-
+123
 
 def can_ask_question(user_id):
     # Проверяем, задавал ли пользователь вопрос сегодня максимальное количество раз
